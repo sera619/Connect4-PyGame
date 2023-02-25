@@ -1,0 +1,6 @@
+name: Connect4
+author: S3R43o3
+version: "0.1"
+rowcout: 6
+colcount: 7
+FPS: 60
